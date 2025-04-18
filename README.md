@@ -56,13 +56,23 @@ When I’m not coding, you’ll find me working on cars, running custom RP serve
 - Release workflows & automation with GitHub Actions
 - Early access launch of internal billing/management systems
 
+
+---
+
+## 📣 Open to Internships & Opportunities
+
+I'm currently looking for cybersecurity or backend development internships (remote or Des Moines, IA area) starting in Summer or Fall 2025.  
+I'm especially interested in roles that involve TypeScript, Node.js, automation, or security tooling — but I’m always open to learning new stacks and contributing wherever I can add value.
+
+If you’re hiring or know someone who is, feel free to reach out!
+
 ---
 
 ## 📫 Contact
 
 <p>
   <a href="https://shadowdevelopment.net"><img src="https://img.shields.io/badge/Website-shadowdevelopment.net-blue?style=for-the-badge"></a>
-  <a href="mailto:shadow@shadowdevelopment.net"><img src="https://img.shields.io/badge/Email-greyshows@shadowdevelopment.net-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:shadow@shadowdevelopment.net"><img src="https://img.shields.io/badge/Email-shadow@shadowdevelopment.net-blue?style=for-the-badge&logo=gmail"></a>
   <a href="https://discord.com/users/643571771983003658"><img src="https://img.shields.io/badge/Discord-GreyShows-5865F2?style=for-the-badge&logo=discord"></a>
 </p>
 
