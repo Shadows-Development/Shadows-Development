@@ -37,6 +37,11 @@ When I’m not coding, you’ll find me working on cars, running custom RP serve
 > - Auto-loading for commands, events, buttons & menus
 > - Permission checks, rate limiting, and middleware support
 
+### 🔐 [ShadowVault](https://github.com/Shadows-Development/ShadowVault)
+> **A security-first Express.js + TypeScript API boilerplate** designed for authentication, rate limiting, and modular structure.  
+> Ideal for internal tools, dashboards, or microservices needing modern security best practices.
+
+
 ### 🧾 GreyPanel *(Private Development)*
 > **A modern self-hosted billing, client, and admin panel** for game hosting and server providers.  
 > Currently in private development — name and scope subject to change.
