@@ -78,6 +78,23 @@ If you’re hiring or know someone who is, feel free to reach out!
 
 ---
 
+## 👾 Dev Logs from the Shadow Realm™
+
+> A running archive of questionable decisions, cursed debugging sessions, and the occasional victory lap. Updated as my sanity deteriorates.
+
+- 🧠 *TypeScript once told me a variable was possibly undefined — in the function that literally defined it.*
+- 🕯 *Debugged a race condition by printing 13 logs and sacrificing a chicken. It worked. No further questions.*
+- 🧱 *Started refactoring a helper function. Four hours later, I had a new auth system and three existential crises.*
+- 🔄 *Accidentally wrote a recursive utility that crashed my terminal and taught me the value of `--max-old-space-size`.*
+- 🐳 *Docker said “permission denied.” I gave it root. I gave it my soul. Still permission denied.*
+- 🚪 *Wrote `exit(1)` just to feel something.*
+
+> _More logs soon. Probably when something breaks in production._
+
+---
+
+> 💬 Got your own dev logs? PRs welcome. We suffer together here.
+
 ## 📫 Contact
 
 <p>
