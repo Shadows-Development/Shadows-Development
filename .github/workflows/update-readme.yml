@@ -30,7 +30,7 @@ jobs:
       - name: Replace fun fact in README
         run: |
           sed -i '/<!--FUN_FACT-->/, /<!--\/FUN_FACT-->/c\
-<!--FUN_FACT-->\n'"$FACT"'\n<!--/FUN_FACT-->' README.md
+          <!--FUN_FACT-->\n'"$FACT"'\n<!--/FUN_FACT-->' README.md
 
       - name: Commit and push changes
         run: |
