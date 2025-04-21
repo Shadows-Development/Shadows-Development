@@ -29,13 +29,8 @@ jobs:
 
       - name: Replace fun fact in README
         run: |
-          awk -v fact="$FACT" '
-          BEGIN { print = 1 }
-          /<!--FUN_FACT-->/ { print = 1; print; print fact; next }
-          /<!--\/FUN_FACT-->/ { print = 0 }
-          print
-          ' README.md > temp.md
-          mv temp.md README.md
+          sed -i '/<!--FUN_FACT-->/, /<!--\/FUN_FACT-->/c\
+<!--FUN_FACT-->\n'"$FACT"'\n<!--/FUN_FACT-->' README.md
 
       - name: Commit and push changes
         run: |
