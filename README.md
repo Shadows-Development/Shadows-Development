@@ -90,6 +90,6 @@ If you’re hiring or know someone who is, feel free to reach out!
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I once debugged a carbureted 383 stroker engine before finishing my coffee — now I mostly debug TypeScript.
+I taught myself Docker just to avoid paying for a hosting panel. That spiraled into a business.
 <!--/FUN_FACT-->
 </details>
