@@ -89,5 +89,5 @@ If you’re hiring or know someone who is, feel free to reach out!
 ---
 
 <!--FUN_FACT-->
-This will be replaced by a random fun fact.
+I once debugged a carbureted 383 stroker engine before finishing my coffee — now I mostly debug TypeScript.
 <!--/FUN_FACT-->
