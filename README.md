@@ -32,10 +32,15 @@ When I’m not coding, you’ll find me working on cars, running custom RP serve
 ## 🚀 Projects
 
 ### 🧩 [ShadowCore](https://github.com/GreyDevOps/shadow-core)
-> **A modular TypeScript framework for building secure, scalable Discord bots.**
-> - Plugin ecosystem & CLI support
-> - Auto-loading for commands, events, buttons & menus
-> - Permission checks, rate limiting, and middleware support
+> **A modular TypeScript framework for building secure, scalable Discord bots and backend tooling.**
+> - CLI support, role guards, plugin-ready command/event structure
+> - Security-first: Argon2, JWT, HMAC, and NestJS integration
+> - Clean dev experience and extensible architecture
+>
+> ⚙️ **ShadowCore v2.0.0 is in active development.**  
+> This update is expanding ShadowCore into a full-stack toolkit — supporting not only Discord bots, but also Express/NestJS APIs and CLI tooling.  
+> While the **plugin system is delayed until v2.1.0**, v2.0.0 lays the groundwork with improved modularity, reusability, and security-by-default practices.  
+> 📌 Follow progress on the [`v2.0.0`](https://github.com/Shadows-Development/ShadowCore/tree/v2.0.0) branch and join the journey toward a truly universal TypeScript framework.
 
 ### 🔐 [ShadowVault](https://github.com/Shadows-Development/ShadowVault)
 > **A security-first Express.js + TypeScript API boilerplate** designed for authentication, rate limiting, and modular structure.  
@@ -83,7 +88,6 @@ If you’re hiring or know someone who is, feel free to reach out!
 
 ---
 
-<details>
-<summary>✨ Fun Fact</summary>
-I once debugged a carbureted 383 stroker engine before finishing my coffee — now I mostly debug TypeScript.
-</details>
+<!--FUN_FACT-->
+This will be replaced by a random fun fact.
+<!--/FUN_FACT-->
