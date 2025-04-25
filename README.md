@@ -107,6 +107,6 @@ If you’re hiring or know someone who is, feel free to reach out!
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I swapped a digital dash for analog in an '84 Corvette. Somehow, that was less painful than writing proper role-based auth in TypeScript.
+I debugged a carbureted 383 stroker engine before finishing my coffee — now I spend two hours debugging why TypeScript thinks 'string | undefined' is a threat to society.
 <!--/FUN_FACT-->
 </details>
