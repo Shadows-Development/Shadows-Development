@@ -107,6 +107,6 @@ If you’re hiring or know someone who is, feel free to reach out!
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I debugged a carbureted 383 stroker engine before finishing my coffee — now I spend two hours debugging why TypeScript thinks 'string | undefined' is a threat to society.
+I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and breaks just as often.
 <!--/FUN_FACT-->
 </details>
