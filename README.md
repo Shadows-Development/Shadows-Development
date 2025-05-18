@@ -46,6 +46,21 @@ When I’m not coding, you’ll find me working on cars, running custom RP serve
 > **A security-first Express.js + TypeScript API boilerplate** designed for authentication, rate limiting, and modular structure.  
 > Ideal for internal tools, dashboards, or microservices needing modern security best practices.
 
+### 📟 [Project NyxCad](https://github.com/Shadows-Development/NyxCad) *(Private Preview)*  
+> **A next-gen, cross-game CAD/MDT system** designed for FiveM, Roblox, and beyond — built under the ShadowDev ecosystem.  
+> Modular. Secure. Developer-ready.
+
+`Project NyxCad` is a universal dispatch and data platform for roleplay communities, built to scale from personal servers to full-blown hosted platforms. With support for multiple games through adapter modules and a plugin-ready API, it empowers communities to run efficient, modern RP systems without being locked into one ecosystem.
+
+- 🧠 **Modular by design** – plugins, game adapters, and extensibility first  
+- 🔐 **Security-first** – Auth, permissions, and audit logging baked in  
+- 🌐 **Multi-host support** – Self-hosted or use ShadowDev’s hosted SaaS  
+- 🚀 **Game-agnostic** – Designed for FiveM, Roblox, and future integrations  
+- 🧩 **Plugin-ready SDK** – Developers can extend everything cleanly  
+
+> The core system is currently in private development.  
+> Follow the journey or reach out if you're interested in early access, testing, or contributing once the base is ready.
+
 
 ### 🧾 GreyPanel *(Private Development)*
 > **A modern self-hosted billing, client, and admin panel** for game hosting and server providers.  
@@ -56,7 +71,7 @@ When I’m not coding, you’ll find me working on cars, running custom RP serve
 ## 🎓 Certifications & Education
 
 - ✅ **Google Cybersecurity Professional Certificate** (Coursera)
-- 🎓 Incoming Computer Science major at **Iowa State University**, Fall 2025
+- 🎓 Incoming Cybersecurity Engineering major at **Iowa State University**, Fall 2025
 
 ---
 
