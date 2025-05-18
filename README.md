@@ -103,8 +103,17 @@ If you’re hiring or know someone who is, feel free to reach out!
 - 🔄 *Accidentally wrote a recursive utility that crashed my terminal and taught me the value of `--max-old-space-size`.*
 - 🐳 *Docker said “permission denied.” I gave it root. I gave it my soul. Still permission denied.*
 - 🚪 *Wrote `exit(1)` just to feel something.*
+- 🎭 *ShadowCore’s plugin system worked great until I accidentally registered the same command… six times. In production.*
+- 🔐 *My JWT validator was so strict it denied itself. Very secure. No users allowed.*
+- 🧩 *Tried “just one quick fix” in Prisma. Dropped half my relations and discovered a new religion.*
+- 📡 *WebSocket reconnect logic was solid — until it reconnected 87 times per second. My logs became a strobe light.*
+- 🚓 *My FiveM server booted perfectly. Nothing worked inside it, but the logs were clean and that’s what matters.*
+- 🧯 *Installed a third-party Discord rate limiter to be safe. It rate-limited itself out of existence.*
+- 🏁 *Launched a self-hosted Discord bot, integrated JWT auth, deployed via Docker, and it all worked on the first try. I checked three times — still worked. I fear I may have broken the laws of software.*
+
 
 > _More logs soon. Probably when something breaks in production._
+
 
 ---
 
