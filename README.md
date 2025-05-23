@@ -131,6 +131,6 @@ If you’re hiring or know someone who is, feel free to reach out!
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I debugged a carbureted 383 stroker engine before finishing my coffee — now I spend two hours debugging why TypeScript thinks 'string | undefined' is a threat to society.
+I just wanted to avoid panel fees — now I’m building an admin, billing, and client system from scratch. Thanks, Docker… I guess?
 <!--/FUN_FACT-->
 </details>
