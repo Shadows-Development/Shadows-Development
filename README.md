@@ -131,6 +131,6 @@ If you’re hiring or know someone who is, feel free to reach out!
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and breaks just as often.
+I just wanted to avoid panel fees — now I’m building an admin, billing, and client system from scratch. Thanks, Docker… I guess?
 <!--/FUN_FACT-->
 </details>
