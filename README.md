@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Harlan Risdal 👋</h1>
 <p align="center">
-  <b>Backend Developer · Cybersecurity Enthusiast · Creator of ShadowDev</b><br>
+  <b>Founder & Managing Member of Shadow Development LLC · Backend Developer · Cybersecurity Enthusiast</b><br>
   <i>(aka GreyShows)</i>
 </p>
 
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity-green?style=flat-square">
 </p>
 
-<p align="center"><i>🌐 The ShadowDev website is currently in development.<br>
+<p align="center"><i>🌐 Shadow Development LLC is now officially formed and operating across multiple projects.<br>
 📚 Our documentation is live but unbranded — more polish coming soon!</i></p>
 
 ---
@@ -134,3 +134,6 @@ If you’re hiring or know someone who is, feel free to reach out!
 I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and breaks just as often.
 <!--/FUN_FACT-->
 </details>
+
+---
+🏢 Shadow Development LLC • Based in Iowa • All rights reserved
