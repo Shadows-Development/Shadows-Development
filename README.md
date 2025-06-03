@@ -131,7 +131,7 @@ If you’re hiring or know someone who is, feel free to reach out!
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and breaks just as often.
+I rewired an RP server database at 3am just because it felt cursed. Accidentally fixed five bugs and created two new ones. Classic dev cycle.
 <!--/FUN_FACT-->
 </details>
 
