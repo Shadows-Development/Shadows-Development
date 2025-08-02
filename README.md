@@ -110,14 +110,14 @@ If you’re hiring or know someone who is, feel free to reach out!
 - 🚓 *My FiveM server booted perfectly. Nothing worked inside it, but the logs were clean and that’s what matters.*
 - 🧯 *Installed a third-party Discord rate limiter to be safe. It rate-limited itself out of existence.*
 - 🏁 *Launched a self-hosted Discord bot, integrated JWT auth, deployed via Docker, and it all worked on the first try. I checked three times — still worked. I fear I may have broken the laws of software.*
-
+- 🛠 *Prisma stopped cooperating. Instead of debugging it, I wrote my own ORM. Because that’s apparently who I am now.*
+- 🧟 *Accidentally wiped the entire ShadowORM repo. Spent an hour resurrecting blobs like a digital necromancer. Git has been appeased — for now.*
 
 > _More logs soon. Probably when something breaks in production._
 
+> 💬 Got your own dev logs? PRs welcome. We suffer together here.
 
 ---
-
-> 💬 Got your own dev logs? PRs welcome. We suffer together here.
 
 ## 📫 Contact
 
