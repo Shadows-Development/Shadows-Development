@@ -131,7 +131,7 @@ If you’re hiring or know someone who is, feel free to reach out!
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I rewired an RP server database at 3am just because it felt cursed. Accidentally fixed five bugs and created two new ones. Classic dev cycle.
+I swapped a digital dash for analog in an '84 Corvette. Somehow, that was less painful than writing proper role-based auth in TypeScript.
 <!--/FUN_FACT-->
 </details>
 
