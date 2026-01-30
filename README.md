@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and breaks just as often.
+I trust systems I built at 3am more than third-party software with marketing pages and monthly fees.
 <!--/FUN_FACT-->
 </details>
 
