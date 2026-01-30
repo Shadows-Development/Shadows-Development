@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Harlan Risdal 👋</h1>
+<h1 align="center">Hey, I’m Harlan Risdal 👋</h1>
 <p align="center">
-  <b>Founder & Managing Member of Shadow Development LLC · Backend Developer · Cybersecurity Enthusiast</b><br>
+  <b>Founder & Managing Member of Shadow Development LLC · Backend Engineer · Security-Focused Builder</b><br>
   <i>(aka GreyShows)</i>
 </p>
 
@@ -12,90 +12,121 @@
     <img src="https://img.shields.io/badge/Discord-GreyShows-5865F2?style=flat-square&logo=discord">
   </a>
   <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Cybersecurity-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Security--First-green?style=flat-square">
 </p>
 
-<p align="center"><i>🌐 Shadow Development LLC is now officially formed and operating across multiple projects.<br>
-📚 Our documentation is live but unbranded — more polish coming soon!</i></p>
+<p align="center">
+  <i>
+    Building owned infrastructure, internal platforms, and systems that don’t fall apart at 3am.<br>
+    Quiet sometimes — never idle.
+  </i>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a backend-focused developer with a passion for building secure, modular systems — especially for Discord bots, game hosting infrastructure, and developer tooling.  
-With a strong interest in cybersecurity and automation, I love creating tools that not only work well, but scale cleanly. I’m currently pursuing a Computer Science degree while developing open-source projects under the ShadowDev ecosystem.
+I’m a **backend-focused engineer and founder** with a strong emphasis on **security, reliability, and long-term maintainability**. I spend most of my time building internal platforms, developer tooling, and infrastructure that replaces third-party dependencies with systems we actually control.
 
-When I’m not coding, you’ll find me working on cars, running custom RP servers, or designing dev workflows that save time and sanity.
+I care less about flashy features and more about:
+- clean architecture  
+- strong permission models  
+- auditability  
+- and systems that scale without constant babysitting  
+
+I’m currently pursuing a **Cybersecurity Engineering** degree while operating and developing multiple projects under Shadow Development LLC.
+
+When I’m not coding, I’m usually:
+- working on cars  
+- running RP infrastructure  
+- or quietly removing vendor lock-in from places it shouldn’t exist  
+
+---
+
+## 🏢 Shadow Development LLC
+
+Shadow Development LLC is the umbrella for everything I build and operate — from public frameworks to private internal platforms.
+
+The focus is simple:
+- **own the stack**
+- **control the data**
+- **build once, scale responsibly**
+
+Some projects are public.  
+Some are internal.  
+All are built with production use in mind.
 
 ---
 
 ## 🚀 Projects
 
-### 🧩 [ShadowCore](https://github.com/GreyDevOps/shadow-core)
-> **A modular TypeScript framework for building secure, scalable Discord bots and backend tooling.**
-> - CLI support, role guards, plugin-ready command/event structure
-> - Security-first: Argon2, JWT, HMAC, and NestJS integration
-> - Clean dev experience and extensible architecture
->
-> ⚙️ **ShadowCore v2.0.0 is in active development.**  
-> This update is expanding ShadowCore into a full-stack toolkit — supporting not only Discord bots, but also Express/NestJS APIs and CLI tooling.  
-> While the **plugin system is delayed until v2.1.0**, v2.0.0 lays the groundwork with improved modularity, reusability, and security-by-default practices.  
-> 📌 Follow progress on the [`v2.0.0`](https://github.com/Shadows-Development/ShadowCore/tree/v2.0.0) branch and join the journey toward a truly universal TypeScript framework.
+### 🧩 ShadowCore
+**A modular TypeScript framework for building secure Discord bots and backend tooling.**
 
-### 🔐 [ShadowVault](https://github.com/Shadows-Development/ShadowVault)
-> **A security-first Express.js + TypeScript API boilerplate** designed for authentication, rate limiting, and modular structure.  
-> Ideal for internal tools, dashboards, or microservices needing modern security best practices.
-
-### 📟 [NyxCad](https://github.com/Shadows-Development/NyxCad) *(Private Preview)*  
-> **A next-gen, cross-game CAD/MDT system** designed for FiveM, Roblox, and beyond — built under the ShadowDev ecosystem.  
-> Modular. Secure. Developer-ready.
-
-`NyxCad` is a universal dispatch and data platform for roleplay communities, built to scale from personal servers to full-blown hosted platforms. With support for multiple games through adapter modules and a plugin-ready API, it empowers communities to run efficient, modern RP systems without being locked into one ecosystem.
-
-- 🧠 **Modular by design** – plugins, game adapters, and extensibility first  
-- 🔐 **Security-first** – Auth, permissions, and audit logging baked in  
-- 🌐 **Multi-host support** – Self-hosted or use ShadowDev’s hosted SaaS  
-- 🚀 **Game-agnostic** – Designed for FiveM, Roblox, and future integrations  
-- 🧩 **Plugin-ready SDK** – Developers can extend everything cleanly  
-
-> The core system is currently in private development.  
-> Follow the journey or reach out if you're interested in early access, testing, or contributing once the base is ready.
-
-
-### 🧾 GreyPanel *(Private Development)*
-> **A modern self-hosted billing, client, and admin panel** for game hosting and server providers.  
-> Currently in private development — name and scope subject to change.
+- Role guards, command/event architecture, CLI tooling
+- Security-first defaults (Argon2, JWT, HMAC)
+- Built for maintainability and extension, not copy-paste bots
 
 ---
 
-## 🎓 Certifications & Education
+### 📟 NyxCad *(Internal Platform · Pilot)*
+**A next-generation CAD/MDT platform built as owned infrastructure.**
 
+NyxCad is a **modular, security-first CAD/MDT system** designed for real production use — not as a marketplace script.
+
+Key principles:
+- full data ownership  
+- Discord-backed permissions (no in-game OAuth pain)  
+- collaborative reporting and modern scene workflows  
+- tenant-aware, SaaS-ready architecture  
+
+NyxCad is currently in **private development** and deployed as an **internal pilot system** within Shadow Development–operated environments.
+
+It is intentionally **not public** at this stage.
+
+---
+
+### 🔐 ShadowVault *(In Progress)*
+**Security-focused backend infrastructure and tooling.**
+
+ShadowVault explores authentication, key management, and secure service design — with an emphasis on systems that can be safely deployed in real-world environments.
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **Cybersecurity Engineeringe** — Iowa State University (Expected Graduation 2029)
 - ✅ **Google Cybersecurity Professional Certificate** (Coursera)
-- 🎓 Starting Cybersecurity Engineering at Iowa State University in Fall 2025
 
 ---
 
-## 💡 Currently Working On
+## 💡 Current Focus
 
-- ShadowCore Plugin Marketplace & CLI tooling
-- Release workflows & automation with GitHub Actions
-- Early access launch of internal billing/management systems
-
+- ShadowCore v2 architecture & tooling
+- NyxCad CAD/MDT platform (pilot hardening)
+- Internal infrastructure & automation
+- Secure auth, permissions, and audit systems
 
 ---
 
-## 📣 Open to Internships & Opportunities
+## 📣 Open to Opportunities
 
-I'm currently looking for cybersecurity or backend development internships (remote or Des Moines, IA area) starting in Summer or Fall 2025.  
-I'm especially interested in roles that involve TypeScript, Node.js, automation, or security tooling — but I’m always open to learning new stacks and contributing wherever I can add value.
+I’m open to **backend engineering or cybersecurity internships** starting **Summer or Fall 2026**  
+(remote or Des Moines, IA area).
 
-If you’re hiring or know someone who is, feel free to reach out!
+I’m especially interested in roles involving:
+- TypeScript / Node.js  
+- backend systems  
+- security tooling  
+- internal platforms & infrastructure  
+
+If you’re hiring — or know someone who is — feel free to reach out.
 
 ---
 
 ## 👾 Dev Logs from the Shadow Realm™
 
-> A running archive of questionable decisions, cursed debugging sessions, and the occasional victory lap. Updated as my sanity deteriorates.
+> A running archive of questionable decisions, cursed debugging sessions, and the occasional victory lap.
 
 - 🧠 *TypeScript once told me a variable was possibly undefined — in the function that literally defined it.*
 - 🕯 *Debugged a race condition by printing 13 logs and sacrificing a chicken. It worked. No further questions.*
@@ -113,21 +144,10 @@ If you’re hiring or know someone who is, feel free to reach out!
 - 🛠 *Prisma stopped cooperating. Instead of debugging it, I wrote my own ORM. Because that’s apparently who I am now.*
 - 🧟 *Accidentally wiped the entire ShadowORM repo. Spent an hour resurrecting blobs like a digital necromancer. Git has been appeased — for now.*
 
-> _More logs soon. Probably when something breaks in production._
-
-> 💬 Got your own dev logs? PRs welcome. We suffer together here.
+> _More logs will appear when something breaks in production._
 
 ---
 
-## 📫 Contact
-
-<p>
-  <a href="https://shadowdevelopment.net"><img src="https://img.shields.io/badge/Website-shadowdevelopment.net-blue?style=for-the-badge"></a>
-  <a href="mailto:shadow@shadowdevelopment.net"><img src="https://img.shields.io/badge/Email-shadow@shadowdevelopment.net-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://discord.com/users/643571771983003658"><img src="https://img.shields.io/badge/Discord-GreyShows-5865F2?style=for-the-badge&logo=discord"></a>
-</p>
-
----
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
@@ -136,4 +156,21 @@ I made my first Discord bot out of spite toward MEE6 — now I maintain a framew
 </details>
 
 ---
-🏢 Shadow Development LLC • Based in Iowa • All rights reserved
+
+## 📫 Contact
+
+<p>
+  <a href="https://shadowdevelopment.net">
+    <img src="https://img.shields.io/badge/Website-shadowdevelopment.net-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:shadow@shadowdevelopment.net">
+    <img src="https://img.shields.io/badge/Email-shadow@shadowdevelopment.net-blue?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://discord.com/users/643571771983003658">
+    <img src="https://img.shields.io/badge/Discord-GreyShows-5865F2?style=for-the-badge&logo=discord">
+  </a>
+</p>
+
+---
+
+🏢 Shadow Development LLC · Based in Iowa · All rights reserved
