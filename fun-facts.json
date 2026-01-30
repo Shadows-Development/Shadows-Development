@@ -1,7 +1,10 @@
 [
-  "I debugged a carbureted 383 stroker engine before finishing my coffee — now I spend two hours debugging why TypeScript thinks 'string | undefined' is a threat to society.",
-  "I rewired an RP server database at 3am just because it felt cursed. Accidentally fixed five bugs and created two new ones. Classic dev cycle.",
-  "I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and breaks just as often.",
-  "I just wanted to avoid panel fees — now I’m building an admin, billing, and client system from scratch. Thanks, Docker… I guess?",
-  "I swapped a digital dash for analog in an '84 Corvette. Somehow, that was less painful than writing proper role-based auth in TypeScript."
+  "I debugged a carbureted 383 stroker engine before finishing my coffee — then spent two hours convincing TypeScript that a string was, in fact, a string.",
+  "I got tired of third-party MDTs breaking scenes, so I accidentally started building my own CAD platform. This is how most of my projects begin.",
+  "I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and somehow still finds new ways to break.",
+  "I tried to avoid panel fees and vendor lock-in. I am now the proud owner of a billing system, an admin panel, and several unresolved existential questions.",
+  "I replaced a digital dash with analog gauges in an ’84 Corvette. It was still easier than designing a permissions system everyone agrees with.",
+  "I build internal tools in silence and only mention them once they mostly work, which is why my collaborators say things like ‘Grey, stop making shit.’",
+  "I once refactored a small helper function and emerged hours later with a new auth system, a migration plan, and absolutely no memory of how I got there.",
+  "I trust systems I built at 3am more than third-party software with marketing pages and monthly fees."
 ]
