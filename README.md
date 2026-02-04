@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and somehow still finds new ways to break.
+I build internal tools in silence and only mention them once they mostly work, which is why my collaborators say things like ‘Grey, stop making shit.’
 <!--/FUN_FACT-->
 </details>
 
