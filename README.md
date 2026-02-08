@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I debugged a carbureted 383 stroker engine before finishing my coffee — then spent two hours convincing TypeScript that a string was, in fact, a string.
+I trust systems I built at 3am more than third-party software with marketing pages and monthly fees.
 <!--/FUN_FACT-->
 </details>
 
