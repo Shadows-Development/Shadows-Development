@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I once refactored a small helper function and emerged hours later with a new auth system, a migration plan, and absolutely no memory of how I got there.
+I replaced a digital dash with analog gauges in an ’84 Corvette. It was still easier than designing a permissions system everyone agrees with.
 <!--/FUN_FACT-->
 </details>
 
