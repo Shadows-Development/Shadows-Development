@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I got tired of third-party MDTs breaking scenes, so I accidentally started building my own CAD platform. This is how most of my projects begin.
+I replaced a digital dash with analog gauges in an ’84 Corvette. It was still easier than designing a permissions system everyone agrees with.
 <!--/FUN_FACT-->
 </details>
 
