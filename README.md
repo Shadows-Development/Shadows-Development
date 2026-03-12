@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I once refactored a small helper function and emerged hours later with a new auth system, a migration plan, and absolutely no memory of how I got there.
+I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and somehow still finds new ways to break.
 <!--/FUN_FACT-->
 </details>
 
