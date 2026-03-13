@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and somehow still finds new ways to break.
+I tried to avoid panel fees and vendor lock-in. I am now the proud owner of a billing system, an admin panel, and several unresolved existential questions.
 <!--/FUN_FACT-->
 </details>
 
