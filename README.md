@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I tried to avoid panel fees and vendor lock-in. I am now the proud owner of a billing system, an admin panel, and several unresolved existential questions.
+I debugged a carbureted 383 stroker engine before finishing my coffee — then spent two hours convincing TypeScript that a string was, in fact, a string.
 <!--/FUN_FACT-->
 </details>
 
