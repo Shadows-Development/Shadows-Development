@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I build internal tools in silence and only mention them once they mostly work, which is why my collaborators say things like ‘Grey, stop making shit.’
+I got tired of third-party MDTs breaking scenes, so I accidentally started building my own CAD platform. This is how most of my projects begin.
 <!--/FUN_FACT-->
 </details>
 
