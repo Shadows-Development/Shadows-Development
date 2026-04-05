@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I build internal tools in silence and only mention them once they mostly work, which is why my collaborators say things like ‘Grey, stop making shit.’
+I debugged a carbureted 383 stroker engine before finishing my coffee — then spent two hours convincing TypeScript that a string was, in fact, a string.
 <!--/FUN_FACT-->
 </details>
 
