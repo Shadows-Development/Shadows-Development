@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I once refactored a small helper function and emerged hours later with a new auth system, a migration plan, and absolutely no memory of how I got there.
+I got tired of third-party MDTs breaking scenes, so I accidentally started building my own CAD platform. This is how most of my projects begin.
 <!--/FUN_FACT-->
 </details>
 
