@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I once refactored a small helper function and emerged hours later with a new auth system, a migration plan, and absolutely no memory of how I got there.
+I tried to avoid panel fees and vendor lock-in. I am now the proud owner of a billing system, an admin panel, and several unresolved existential questions.
 <!--/FUN_FACT-->
 </details>
 
