@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I got tired of third-party MDTs breaking scenes, so I accidentally started building my own CAD platform. This is how most of my projects begin.
+I trust systems I built at 3am more than third-party software with marketing pages and monthly fees.
 <!--/FUN_FACT-->
 </details>
 
