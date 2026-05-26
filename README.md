@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I tried to avoid panel fees and vendor lock-in. I am now the proud owner of a billing system, an admin panel, and several unresolved existential questions.
+I got tired of third-party MDTs breaking scenes, so I accidentally started building my own CAD platform. This is how most of my projects begin.
 <!--/FUN_FACT-->
 </details>
 
