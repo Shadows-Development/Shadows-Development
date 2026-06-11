@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I debugged a carbureted 383 stroker engine before finishing my coffee — then spent two hours convincing TypeScript that a string was, in fact, a string.
+I made my first Discord bot out of spite toward MEE6 — now I maintain a framework that does ten times more and somehow still finds new ways to break.
 <!--/FUN_FACT-->
 </details>
 
