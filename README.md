@@ -151,7 +151,7 @@ If you’re hiring — or know someone who is — feel free to reach out.
 <details>
 <summary>✨ Fun Facts (click to expand)</summary>
 <!--FUN_FACT-->
-I replaced a digital dash with analog gauges in an ’84 Corvette. It was still easier than designing a permissions system everyone agrees with.
+I trust systems I built at 3am more than third-party software with marketing pages and monthly fees.
 <!--/FUN_FACT-->
 </details>
 
