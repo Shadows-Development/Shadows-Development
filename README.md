@@ -1,176 +1,242 @@
-<h1 align="center">Hey, I’m Harlan Risdal 👋</h1>
+<h1 align="center">Harlan Risdal</h1>
+
 <p align="center">
-  <b>Founder & Managing Member of Shadow Development LLC · Backend Engineer · Security-Focused Builder</b><br>
-  <i>(aka GreyShows)</i>
+  <b>Founder & Managing Member of Shadow Development LLC</b><br>
+  <i>Software Engineer · Infrastructure Builder · Aspiring Professional Pilot</i>
 </p>
 
 <p align="center">
   <a href="https://shadowdevelopment.net">
-    <img src="https://img.shields.io/badge/Website-shadowdevelopment.net-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-shadowdevelopment.net-0A66C2?style=flat-square">
   </a>
-  <a href="https://discord.com/users/643571771983003658">
-    <img src="https://img.shields.io/badge/Discord-GreyShows-5865F2?style=flat-square&logo=discord">
+  <a href="mailto:contact@shadowdevelopment.net">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail">
   </a>
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Security--First-green?style=flat-square">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Self--Hosted-2E8B57?style=flat-square">
 </p>
 
 <p align="center">
   <i>
-    Building owned infrastructure, internal platforms, and systems that don’t fall apart at 3am.<br>
-    Quiet sometimes — never idle.
+    Building software, infrastructure, and platforms I own and operate.<br>
+    Founder of Shadow Development LLC • Future Airline Pilot
   </i>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I’m a **backend-focused engineer and founder** with a strong emphasis on **security, reliability, and long-term maintainability**. I spend most of my time building internal platforms, developer tooling, and infrastructure that replaces third-party dependencies with systems we actually control.
+Hey, I'm Harlan.
 
-I care less about flashy features and more about:
-- clean architecture  
-- strong permission models  
-- auditability  
-- and systems that scale without constant babysitting  
+I'm the founder of Shadow Development LLC, where I design and build software platforms, authentication systems, developer tooling, and self-hosted infrastructure.
 
-I’m currently pursuing a **Cybersecurity Engineering** degree while operating and developing multiple projects under Shadow Development LLC.
+My work focuses on creating systems that are:
 
-When I’m not coding, I’m usually:
-- working on cars  
-- running RP infrastructure  
-- or quietly removing vendor lock-in from places it shouldn’t exist  
+* Reliable
+* Secure
+* Maintainable
+* Scalable
+* Fully understood by the people operating them
+
+Rather than relying heavily on third-party services, I prefer building and operating infrastructure that I control myself—from authentication and deployment pipelines to package registries and internal platforms.
+
+Most of my day-to-day work revolves around TypeScript, backend architecture, automation, identity systems, and infrastructure management.
+
+Outside of software, I'm actively pursuing professional flight training with the long-term goal of becoming an airline pilot.
 
 ---
 
 ## 🏢 Shadow Development LLC
 
-Shadow Development LLC is the umbrella for everything I build and operate — from public frameworks to private internal platforms.
+Shadow Development LLC is the home of everything I build.
 
-The focus is simple:
-- **own the stack**
-- **control the data**
-- **build once, scale responsibly**
+Our mission is simple:
 
-Some projects are public.  
-Some are internal.  
-All are built with production use in mind.
+> Build useful software.
+> Own the infrastructure.
+> Control the data.
+> Scale responsibly.
+
+Current areas of focus include:
+
+* Software Development
+* Authentication Platforms
+* Infrastructure Automation
+* Internal Operations Systems
+* Developer Tooling
+* Hosting Solutions
+* Open Source Projects
+
+🌐 https://shadowdevelopment.net
 
 ---
 
 ## 🚀 Projects
 
-### 🧩 ShadowCore
-**A modular TypeScript framework for building secure Discord bots and backend tooling.**
+### 🔐 ShadowAuth
 
-- Role guards, command/event architecture, CLI tooling
-- Security-first defaults (Argon2, JWT, HMAC)
-- Built for maintainability and extension, not copy-paste bots
+A centralized authentication and identity platform powering Shadow Development services.
 
----
+Features include:
 
-### 📟 NyxCad *(Internal Platform · Pilot)*
-**A next-generation CAD/MDT platform built as owned infrastructure.**
-
-NyxCad is a **modular, security-first CAD/MDT system** designed for real production use — not as a marketplace script.
-
-Key principles:
-- full data ownership  
-- Discord-backed permissions (no in-game OAuth pain)  
-- collaborative reporting and modern scene workflows  
-- tenant-aware, SaaS-ready architecture  
-
-NyxCad is currently in **private development** and deployed as an **internal pilot system** within Shadow Development–operated environments.
-
-It is intentionally **not public** at this stage.
+* Unified Account Management
+* Single Sign-On
+* Role-Based Access Control
+* Customer Identity Services
+* API Authentication
+* Organization & Team Management
+* Future SaaS Integration Support
 
 ---
 
-### 🔐 ShadowVault *(In Progress)*
-**Security-focused backend infrastructure and tooling.**
+### 🧩 Atlas Ecosystem
 
-ShadowVault explores authentication, key management, and secure service design — with an emphasis on systems that can be safely deployed in real-world environments.
+A growing collection of TypeScript libraries and development tooling.
 
----
+Current projects include:
 
-## 🎓 Education & Certifications
+* Atlas Core
+* Atlas SDK
+* Atlas UI
+* Atlas Target
+* Atlas Notify
+* Atlas API
 
-- 🎓 **Cybersecurity Engineeringe** — Iowa State University (Expected Graduation 2029)
-- ✅ **Google Cybersecurity Professional Certificate** (Coursera)
-
----
-
-## 💡 Current Focus
-
-- ShadowCore v2 architecture & tooling
-- NyxCad CAD/MDT platform (pilot hardening)
-- Internal infrastructure & automation
-- Secure auth, permissions, and audit systems
+Built to provide clean architecture, consistency, and long-term maintainability across applications and services.
 
 ---
 
-## 📣 Open to Opportunities
+### 📊 ShadowOps
 
-I’m open to **backend engineering or cybersecurity internships** starting **Summer or Fall 2026**  
-(remote or Des Moines, IA area).
+An internal operations platform used to manage projects, deployments, permissions, infrastructure, and organizational workflows.
 
-I’m especially interested in roles involving:
-- TypeScript / Node.js  
-- backend systems  
-- security tooling  
-- internal platforms & infrastructure  
-
-If you’re hiring — or know someone who is — feel free to reach out.
+Designed to centralize management across Shadow Development services.
 
 ---
 
-## 👾 Dev Logs from the Shadow Realm™
+### 🚓 NyxCAD
 
-> A running archive of questionable decisions, cursed debugging sessions, and the occasional victory lap.
+A modern CAD and MDT platform built with scalability and long-term maintainability in mind.
 
-- 🧠 *TypeScript once told me a variable was possibly undefined — in the function that literally defined it.*
-- 🕯 *Debugged a race condition by printing 13 logs and sacrificing a chicken. It worked. No further questions.*
-- 🧱 *Started refactoring a helper function. Four hours later, I had a new auth system and three existential crises.*
-- 🔄 *Accidentally wrote a recursive utility that crashed my terminal and taught me the value of `--max-old-space-size`.*
-- 🐳 *Docker said “permission denied.” I gave it root. I gave it my soul. Still permission denied.*
-- 🚪 *Wrote `exit(1)` just to feel something.*
-- 🎭 *ShadowCore’s plugin system worked great until I accidentally registered the same command… six times. In production.*
-- 🔐 *My JWT validator was so strict it denied itself. Very secure. No users allowed.*
-- 🧩 *Tried “just one quick fix” in Prisma. Dropped half my relations and discovered a new religion.*
-- 📡 *WebSocket reconnect logic was solid — until it reconnected 87 times per second. My logs became a strobe light.*
-- 🚓 *My FiveM server booted perfectly. Nothing worked inside it, but the logs were clean and that’s what matters.*
-- 🧯 *Installed a third-party Discord rate limiter to be safe. It rate-limited itself out of existence.*
-- 🏁 *Launched a self-hosted Discord bot, integrated JWT auth, deployed via Docker, and it all worked on the first try. I checked three times — still worked. I fear I may have broken the laws of software.*
-- 🛠 *Prisma stopped cooperating. Instead of debugging it, I wrote my own ORM. Because that’s apparently who I am now.*
-- 🧟 *Accidentally wiped the entire ShadowORM repo. Spent an hour resurrecting blobs like a digital necromancer. Git has been appeased — for now.*
+Current focus areas:
 
-> _More logs will appear when something breaks in production._
+* Multi-Tenant Architecture
+* Advanced Permissions
+* Reporting Workflows
+* Modern User Experience
+* SaaS Readiness
 
 ---
 
-<details>
-<summary>✨ Fun Facts (click to expand)</summary>
-<!--FUN_FACT-->
-I tried to avoid panel fees and vendor lock-in. I am now the proud owner of a billing system, an admin panel, and several unresolved existential questions.
-<!--/FUN_FACT-->
-</details>
+### ☁️ Greypeak Hosting
+
+An upcoming hosting and infrastructure platform focused on transparency, reliability, and operational ownership.
+
+---
+
+### 🎮 Nimbus CityRP
+
+A roleplay community and development environment where many systems, workflows, and tools are tested in real-world scenarios before broader deployment.
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+
+### Backend & Infrastructure
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge\&logo=proxmox\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge)
+
+### Data & Identity
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge)
+
+---
+
+## 🏗️ Current Infrastructure
+
+Some of the platforms and services I actively operate:
+
+* GitLab
+* Private Package Registries
+* ShadowAuth
+* Keycloak
+* Mailcow
+* Roundcube
+* Docker Infrastructure
+* Proxmox Virtualization
+* Internal Deployment Systems
+* CI/CD Pipelines
+* Monitoring & Logging Services
+* Customer Authentication Services
+* Self-Hosted Development Platforms
+
+Everything is designed around automation, observability, and long-term operational ownership.
+
+---
+
+## ✈️ Aviation
+
+Alongside software engineering, I'm currently pursuing professional flight training.
+
+Current Progress:
+
+* FAA First Class Medical
+* Returning to Flight Training
+* Working Toward Private Pilot Completion
+* Long-Term Airline Career Path
+
+Aviation and technology are the two fields that continue to challenge and inspire me the most.
+
+---
+
+## 🎯 Current Focus
+
+* Expanding ShadowAuth
+* Building the Atlas ecosystem
+* Growing Shadow Development LLC
+* Advancing NyxCAD
+* Infrastructure Automation
+* Greypeak Hosting
+* Flight Training
 
 ---
 
 ## 📫 Contact
 
-<p>
-  <a href="https://shadowdevelopment.net">
-    <img src="https://img.shields.io/badge/Website-shadowdevelopment.net-blue?style=for-the-badge">
-  </a>
-  <a href="mailto:shadow@shadowdevelopment.net">
-    <img src="https://img.shields.io/badge/Email-shadow@shadowdevelopment.net-blue?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://discord.com/users/643571771983003658">
-    <img src="https://img.shields.io/badge/Discord-GreyShows-5865F2?style=for-the-badge&logo=discord">
-  </a>
-</p>
+🌐 Website
+https://shadowdevelopment.net
+
+📧 Business Email
+[harlanr@shadowdevelopment.net](mailto:harlanr@shadowdevelopment.net)
+
+💻 GitHub
+https://github.com/GreyShows
 
 ---
 
-🏢 Shadow Development LLC · Based in Iowa · All rights reserved
+<p align="center">
+  <i>
+    Building software during the week.<br>
+    Flying airplanes whenever possible.
+  </i>
+</p>
